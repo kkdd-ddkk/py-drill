@@ -118,7 +118,8 @@ just_fix_windows_console()
 ESP=1
 ENG=0
 
-new_word_re = re.compile (r'\((?P<new>.+?)\)')
+# new_word_re = re.compile (r'\/(?P<new>.+?)\/')
+new_word_re = re.compile (r'\{(?P<new>.+?)\}')
 from math import log, ceil
 
 from random import randint 
