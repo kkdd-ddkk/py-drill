@@ -12,7 +12,7 @@
 
 - No statistics is collected
 - Input - a csv format
-- Сan highlight words by using /.../.
+- Сan highlight words by using curly braces like this `{highlight me}`.
 
 
 
