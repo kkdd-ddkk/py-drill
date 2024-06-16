@@ -6,16 +6,16 @@ chicken;pollo
 duck;pato
 pork;puerco
 pig;cerdo
-(lamb);(cordero)
+{lamb};{cordero}
 fish/seafood;pescado/mariscos
 tuna;el atún
-(codfish);(bacalao)
+{codfish};{bacalao}
 salmon;el salmón
-(shrimp);los (camarones)
-(vegetables);(verduras)/las legumbres
+{shrimp};los {camarones}
+{vegetables};{verduras}/las legumbres
 tomato;el tomate
 lettuce;lechuga
-(onion);(cebolla)
+{onion};{cebolla}
 potato;patata/papa
 fruits;frutas
 pineapple;piña
@@ -24,7 +24,7 @@ orange;naranja
 grapes;uvas
 apple;manzana
 to shop;hacer compras
-super(market);super(mercado)
+super{market};super{mercado}
 list;lista
 shopping cart;carrito
 nothing else, nothing more;nada más
