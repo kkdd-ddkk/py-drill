@@ -38,6 +38,7 @@ It will walk you sequentially though the CSV lines, higlighting the words inside
 
 ## Controls:
 - Arrow keys - go to the next/previous phrase
+- `q` - quit, as well as `ctrl+c`, `ctrl+d`, `ctrl+q` or `ctrl+z`
 - `j` - jump to a random phrase
 - `enter` - show translation, move to the next phrase
 - `backspace` - hide the translation
